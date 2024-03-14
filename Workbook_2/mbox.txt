@@ -1,0 +1,12 @@
+X-DSPAM-Confidence: 0.894128046745
+This is your mail box
+
+Dear, Mr. Jael
+
+I'm concerned with your current status and I want to check on you, can you at 
+any moment go to my office.
+
+Sincerely, HR.
+
+X-DSPAM-Confidence: 0.894128046745
+X-DSPAM-Confidence: 0.932824173242

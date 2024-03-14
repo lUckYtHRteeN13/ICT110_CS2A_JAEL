@@ -1,0 +1,2 @@
+X-DSPAM-Confidence: 0.894128046745
+X-DSPAM-Confidence: 0.932824173242
